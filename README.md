@@ -1,3 +1,3 @@
 # ZapTV
-Olá eu sou o ZAP TV
+Olá, eu sou o ZAP TV.
 Aplicativo de filmes e séries.
