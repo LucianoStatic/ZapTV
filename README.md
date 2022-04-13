@@ -1,3 +1,3 @@
 # ZapTV
 Olá eu sou o ZAP TV
-Aplicativo com fins de estudo! 
+Aplicativo de filmes e séries.
