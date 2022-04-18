@@ -1,8 +1,7 @@
-package ui
+package com.myapp.zaptv
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.myapp.zaptv.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
