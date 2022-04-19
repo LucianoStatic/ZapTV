@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">ZapTv</string>
     <string name="construcao">EM CONSTRUÇÃO!!!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="filmes">Filmes</string>
+    <string name="s_ries">Séries</string>
 </resources>
