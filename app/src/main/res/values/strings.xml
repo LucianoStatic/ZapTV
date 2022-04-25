@@ -4,4 +4,7 @@
     <string name="favoritos">Favoritos</string>
     <string name="filmes">Filmes</string>
     <string name="s_ries">Séries</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="filmes_">Filmes</string>
 </resources>
