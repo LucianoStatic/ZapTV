@@ -1,11 +1,10 @@
 package ui
 
-import AdapterViewPager.ViewPagerAdapter
+import adapterViewPager.ViewPagerAdapter
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.google.android.material.tabs.TabLayout
 import com.google.android.material.tabs.TabLayoutMediator
-import com.myapp.zaptv.R
 import com.myapp.zaptv.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
