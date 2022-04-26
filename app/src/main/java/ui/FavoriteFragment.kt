@@ -6,16 +6,20 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.myapp.zaptv.R
+import com.myapp.zaptv.databinding.FragmentFavoriteBinding
+import ui.viewmodel.FavoriteFragmentViewModel
 
 
-class FavoriteFragment : Fragment() {
+class FavoriteFragment :BaseFragment<FragmentFavoriteBinding,FavoriteFragmentViewModel>() {
+    override val viewModel: FavoriteFragmentViewModel
+        get() = TODO("Not yet implemented")
 
-    override fun onCreateView(
-        inflater: LayoutInflater, container: ViewGroup?,
-        savedInstanceState: Bundle?
-    ): View? {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_favorite, container, false)
+    override fun getViewBinding(
+        inflater: LayoutInflater,
+        container: ViewGroup?
+    ): FragmentFavoriteBinding {
+            return FragmentFavoriteBinding.inflate(inflater,container,false)
     }
+
 
 }
