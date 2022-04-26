@@ -24,8 +24,11 @@ class AdapterMovies(private val movies: List<Movies>) :
         fun bindMovie(movie: Movies) {
 
             itemView.apply {
+
                 tvTitle.text = movie.title
+
                 tvReleaseDate.text = ConvertData.toDate(movie.release)
+
                 Glide.with(this).load(imgBaseURL + movie.poster)
                     .into(this.ivPosterPicture)
             }

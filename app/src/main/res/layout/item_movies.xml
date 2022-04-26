@@ -9,8 +9,9 @@
 
     <ImageView
         android:id="@+id/ivPosterPicture"
-        android:layout_width="104dp"
+        android:layout_width="150dp"
         android:layout_height="match_parent"
+        android:contentDescription="@string/stringPosterFilme"
         android:scaleType="centerCrop"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"

@@ -8,6 +8,7 @@ class RetrofitConfig {
     companion object {
 
         private const val BASE_URL = "https://api.themoviedb.org"
+
         private var retrofit: Retrofit? = null
 
         fun getInstanceRetrofit(): Retrofit {

@@ -17,7 +17,7 @@ import retrofit2.Response
 import service.MoviesAPI
 import service.retrofit.RetrofitConfig
 import util.Constants.popular
-import util.Constants.topRatedMovies
+
 
 
 class MovieFragment : Fragment() {
