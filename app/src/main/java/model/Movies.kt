@@ -14,7 +14,10 @@ data class Movies(
     val poster: String?,
 
     @SerializedName("release_date")
-    val release: String?
+    val release: String?,
+
+
+
 
 
 )

@@ -19,7 +19,6 @@ import service.retrofit.RetrofitConfig
 import util.Constants.popular
 
 
-
 class MovieFragment : Fragment() {
 
 
