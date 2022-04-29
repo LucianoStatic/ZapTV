@@ -35,6 +35,8 @@
                 android:layout_marginHorizontal="20dp"
                 android:layout_marginTop="20dp"
                 android:text="@string/filmes_"
+                android:drawableLeft="@drawable/ic_baseline_local_movies_24"
+                android:drawablePadding="5dp"
                 android:textColor="@color/white"
                 android:textSize="24sp"
                 android:textStyle="bold" />

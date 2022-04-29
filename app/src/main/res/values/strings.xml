@@ -5,8 +5,10 @@
     <string name="filmes">Filmes</string>
     <string name="s_ries">Séries</string>
     <string name="title">Title</string>
-    <string name="date">Date</string>
+    <string name="date">Data de lançamento:</string>
     <string name="filmes_">Filmes</string>
     <string name="stringPosterFilme">posterFilme</string>
      <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cast">Elenco: %1$s</string>
+    <string name="similar">Opções semelhantes</string>
 </resources>
