@@ -33,6 +33,7 @@ android {
 
     viewBinding{
         enabled = true
+
     }
 }
 
@@ -49,4 +50,6 @@ dependencies {
 
     //LOTTIE
     implementation 'com.airbnb.android:lottie:4.2.2'
+
+
 }
